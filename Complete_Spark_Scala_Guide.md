@@ -1,4 +1,4 @@
-# ETP Complete Spark & Scala Preparation Guide
+# Complete Spark & Scala Preparation Guide
 
 This guide provides a comprehensive overview of the concepts required for your ETP, with a focus on Scala as the programming language.
 
